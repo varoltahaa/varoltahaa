@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 
 <p align="left"> <a href="https://twitter.com/varoltahaa" target="blank"><img src="https://img.shields.io/twitter/follow/varoltahaa?logo=twitter&style=for-the-badge" alt="varoltahaa" /></a>
+ <br/>
 <a href="https://www.linkedin.com/in/varoltahaa/" target="_blank" rel="nofollow"> <img alt = "Linkedln Hesabım"src =" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "/> </a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varoltahaa&label=Profile%20views&color=0e75b6&style=flat" alt="varoltahaa" /> </p> 
