@@ -13,6 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/varoltahaa" target="blank"><img src="https://img.shields.io/twitter/follow/varoltahaa?logo=twitter&style=for-the-badge" alt="varoltahaa" /></a>
 <br/>
-<p align="left"> <a href="https://www.linkedin.com/in/varoltahaa/" target="blank"><img src="https://img.shields.io/twitter/follow/varoltahaa?logo=twitter&style=for-the-badge" alt="varoltahaa" /></a>  
+<p align="left"> <a href="https://www.linkedin.com/in/varoltahaa/" target="blank"><img src="https://img.shields.io/linkedln/follow/varoltahaa?logo=linkedln&style=for-the-badge" alt="varoltahaa" /></a>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varoltahaa&label=Profile%20views&color=0e75b6&style=flat" alt="varoltahaa" /> </p> 
