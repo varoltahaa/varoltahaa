@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my GitHup page 👋</h1>
+<h1 align="center"> Welcome to my GitHub page 👋</h1>
 <h2 align="center">I'm Taha Varol .I'm a student in the Department of Management Information Systems.</h2>
 
 
