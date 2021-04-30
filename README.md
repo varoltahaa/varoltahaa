@@ -2,8 +2,8 @@
 <h2 align="center">I'm Taha Varol .I'm a student in the Department of Management Information Systems.</h2>
 
 
-- 🔭 I’m currently working on ... HTML, CSS, JavaScript,
-- 🌱 I’m currently learning ... C#
+- 🔭 I’m currently working on HTML, CSS, JavaScript,
+- 🌱 I’m currently learning C# and Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
