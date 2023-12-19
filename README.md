@@ -11,10 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<p align="left"> <a href="https://twitter.com/varoltahaa" target="blank"><img src="https://img.shields.io/twitter/follow/varoltahaa?logo=twitter&style=for-the-badge" alt="varoltahaa" /></a>
- <br/>
-<a href="https://www.linkedin.com/in/varoltahaa/" target="_blank" rel="nofollow"> <img alt = "Linkedln Hesabım"src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
- <br/>
  
  <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> </img>
